@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cartão de Visitas</string>
+    <string name="txt_business_card">Cartão de Visitas</string>
+    <string name="cd_fab">Botão de adicionar novo cartão</string>
+    <string name="txt_cancel_new_addition">Cancela nova adição</string>
+    <string name="txt_new_card">Novo Cartão</string>
+    <string name="txt_name">Nome</string>
+    <string name="txt_mobile">Telefone</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_company">Empresa</string>
+    <string name="txt_color">Cor</string>
+    <string name="txt_confirm">Confirmar</string>
+</resources>

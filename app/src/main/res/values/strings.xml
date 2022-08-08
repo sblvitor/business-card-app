@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">BusinessCard</string>
+    <string name="app_name">Business Card</string>
+    <string name="txt_business_card">Business Card</string>
+    <string name="cd_fab">Add new card button</string>
+    <string name="txt_cancel_new_addition">Cancel new addition</string>
+    <string name="txt_new_card">New Card</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_mobile">Mobile</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_company">Company</string>
+    <string name="txt_color">Color</string>
+    <string name="txt_confirm">Confirm</string>
 </resources>
